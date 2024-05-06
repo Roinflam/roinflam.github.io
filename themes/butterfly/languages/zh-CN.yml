@@ -1,0 +1,105 @@
+footer:
+  framework: 使用的框架
+  theme: 可爱的主题
+copy:
+  success: 复制成功了喵~
+  error: 呜呜,复制失败了...
+  noSupport: 这个破浏览器不支持诶!
+page:
+  articles: 文章一览
+  tag: 标签
+  category: 分类
+  archives: 时光穿梭机
+card_post_count: 条评论
+no_title: 神秘的无题
+post:
+  created: 初次见面的时间
+  updated: 最后修改的时间
+  wordcount: 字数统计
+  min2read: 阅读大约需要
+  min2read_unit: 分钟
+  page_pv: 被偷窥了
+  comments: 条评论
+copyright:
+  author: 作者大大
+  link: 原文链接
+  copyright_notice: 版权声明
+  copyright_content: '博客里的文章都采用 <a href="%s" target="_blank">%s</a> 许可协议哦。转载的话要注明来自 <a href="%s" target="_blank">%s</a>!'
+recommend: 推荐阅读
+edit: 编辑一下
+search:
+  title: 搜索
+  load_data: 在努力加载数据中...
+  algolia_search:
+    input_placeholder: 输入关键词搜文章
+    hits_empty: '没有找到相关的内容: ${query}'
+    hits_stats: '找到 ${hits} 条结果, 耗时 ${time} 毫秒'
+  local_search:
+    input_placeholder: 输入关键词搜文章
+    hits_empty: '没有找到相关的内容: ${query}'
+    hits_stats: '找到 ${hits} 篇相关的文章'
+pagination:
+  prev: 上一篇
+  next: 下一篇  
+comment: 评论一下吧
+aside:
+  articles: 文章
+  tags: 标签  
+  categories: 分类
+  card_announcement: 公告
+  card_categories: 文章分类
+  card_tags: 标签云
+  card_archives: 时光轴
+  card_recent_post: 最新文章
+  card_webinfo:
+    headline: 小站资讯
+    article_name: 文章数目
+    runtime:  
+      name: 已运行时间
+      unit: 天
+    last_push_date:
+      name: 最后更新时间  
+    site_wordcount: 本站总字数
+    site_uv_name: 本站访客数
+    site_pv_name: 本站总访问量
+  more_button: 查看更多
+  card_newest_comments:
+    headline: 最新评论
+    loading_text: 加载中...
+    error: 无法获取评论,请检查相关配置
+    zero: 还没有评论哦
+image: 图片
+link: 友情链接
+code: 代码块
+card_toc: 文章目录
+card_post_series: 系列文章
+date_suffix:  
+  just: 刚刚
+  min: 分钟前
+  hour: 小时前
+  day: 天前
+  month: 个月前
+donate: 请我喝杯奶茶吧
+share: 分享
+rightside:
+  readmode_title: 阅读模式
+  translate_title: 简繁转换
+  night_mode_title: 切换日夜间模式
+  back_to_top: 回到顶端
+  toc: 文章目录
+  scroll_to_comment: 跳到评论
+  setting: 设置
+  aside: 切换单双栏
+  chat: 聊天
+copy_copyright:
+  author: 作者
+  link: 链接
+  source: 来源
+  info: 转载请注明出处哦
+Snackbar:
+  chs_to_cht: 切换为繁体中文啦~
+  cht_to_chs: 切换为简体中文咯~
+  day_to_night: 已切换为深色模式~
+  night_to_day: 已切换为浅色模式~
+  load_more: 加载更多...
+error404: 页面跑丢啦!
